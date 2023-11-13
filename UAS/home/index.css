@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid{
+    background-color: #1751a5;
+    box-shadow: none;
+    border: 0;
+    height: 115px;
+}
+.card-header
+{
+    background-color: white;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+.image-1
+{  
+    margin-top: 20px;
+    width: 75px;
+    height: 75px;
+    margin-left: 20px;
+    border-radius: 90px;
+}
+
+.background-image{
+    width: 115px;
+    height: 115px;
+    margin-right: 15px;
+    border-radius: 90px;
+    background-color: #1751a5;
+}
+
+.background-image-2{
+    background-color: #1751a5;
+    width: 60px;
+    height: 115px;
+}
+.background-image-3{
+    background-position: right;
+    width: 151px;
+    height: 115px;
+    margin-left: 15px;
+    border-radius: 90px;
+    background-color: #1751a5;
+}
+
+.row{
+    margin: 40px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    list-style: none;
+    font-size: 18px;
+    
+}
+.background-image-4{
+    background-color: #1751a5;
+    width: 1100px;
+    height: 115px;
+    margin-top: 0px;
+    background-position: right;
+    margin-left: 60px;
+    position: absolute;
+}    
+.background-image-5{
+    background-color: #f2c808;
+    width:  200px;
+    height: 200px;
+    margin-top: -95px;
+    margin-left: 1200px;
+    border-radius: 2000px;
+    position: absolute;    
+}
+.background-image-6{
+    background-color: #1751a5;
+    width:  150px;
+    height: 150px;
+    margin-top: 25px;
+    margin-left: 25px;
+    border-radius: 120px;
+    position: absolute;
+}
+.background-image-7{
+    background-color: #f2c808;
+    width:  75px;
+    height: 75px;
+    margin-top: 35px;
+    margin-left: 35px;
+    border-radius: 120px;
+    position: absolute;
+}
+.title{
+    text-decoration: solid;
+    text-align: center;
+    font-size: 30px;
+    color:#1751a5;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.background-title{
+    padding: 0;
+    margin: 0;
+    background-color: white;
+}
